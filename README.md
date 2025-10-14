@@ -26,11 +26,14 @@ For detailed content, please refer to our survey paper: [**"A Comprehensive Surv
 If you find this project helpful for your research, please consider citing our work:
 
 ```bibtex
-@article{paper2025,
-  title={Title},
-  author={Author},
-  journal={Conference/Journal Name},
-  year={2025}
+@misc{guo2025comprehensivesurveybenchmarkssolutions,
+      title={A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System}, 
+      author={Jiale Guo and Suizhi Huang and Mei Li and Dong Huang and Xingsheng Chen and Regina Zhang and Zhijiang Guo and Han Yu and Siu-Ming Yiu and Christian Jensen and Pietro Lio and Kwok-Yan Lam},
+      year={2025},
+      eprint={2510.09721},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2510.09721}, 
 }
 ```
 
