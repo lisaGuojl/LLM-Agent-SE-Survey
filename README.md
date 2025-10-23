@@ -20,7 +20,7 @@
 
 This is a continuously updated repository of papers and resources focused on **LLM-Empowered Agentic Systems for Software Engineering**.
 
-For detailed content, please refer to our survey paper: [**"A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System"**](your-paper-link)
+For detailed content, please refer to our survey paper: [**"A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System"**](https://arxiv.org/abs/2510.09721)
 
 
 If you find this project helpful for your research, please consider citing our work:
@@ -28,7 +28,7 @@ If you find this project helpful for your research, please consider citing our w
 ```bibtex
 @misc{guo2025comprehensivesurveybenchmarkssolutions,
       title={A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System}, 
-      author={Jiale Guo and Suizhi Huang and Mei Li and Dong Huang and Xingsheng Chen and Regina Zhang and Zhijiang Guo and Han Yu and Siu-Ming Yiu and Christian Jensen and Pietro Lio and Kwok-Yan Lam},
+      author={Jiale Guo and Suizhi Huang and Mei Li and Dong Huang and Xingsheng Chen and Regina Zhang and Zhijiang Guo and Han Yu and Siu-Ming Yiu and Pietro Lio and Kwok-Yan Lam},
       year={2025},
       eprint={2510.09721},
       archivePrefix={arXiv},
